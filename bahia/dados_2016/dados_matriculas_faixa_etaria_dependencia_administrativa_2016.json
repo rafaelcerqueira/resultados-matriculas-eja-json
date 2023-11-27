@@ -30,13 +30,13 @@
     "Até 14 anos": 70
   },
   "Federal": {
-    "15 a 17 anos": null,
-    "18 a 19 anos": 19.0,
-    "20 a 24 anos": 99.0,
-    "25 a 29 anos": 88.0,
-    "30 a 34 anos": 82.0,
-    "35 a 39 anos": 69.0,
-    "40 anos ou mais": 93.0,
-    "Até 14 anos": null
+    "15 a 17 anos": 0,
+    "18 a 19 anos": 19,
+    "20 a 24 anos": 99,
+    "25 a 29 anos": 88,
+    "30 a 34 anos": 82,
+    "35 a 39 anos": 69,
+    "40 anos ou mais": 93,
+    "Até 14 anos": 0
   }
 }
