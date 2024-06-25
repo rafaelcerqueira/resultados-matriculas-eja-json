@@ -1,0 +1,34 @@
+{
+  "Estadual": {
+    "Branca": "8.41%",
+    "Preta": "7.58%",
+    "Parda": "50.69%",
+    "Amarela": "0.56%",
+    "Indígena": "0.72%",
+    "Não declarada": "32.04%"
+  },
+  "Municipal": {
+    "Branca": "7.08%",
+    "Preta": "4.87%",
+    "Parda": "49.9%",
+    "Amarela": "0.35%",
+    "Indígena": "0.42%",
+    "Não declarada": "37.38%"
+  },
+  "Privada": {
+    "Branca": "11.04%",
+    "Preta": "3.95%",
+    "Parda": "46.26%",
+    "Amarela": "0.34%",
+    "Indígena": "0.13%",
+    "Não declarada": "38.28%"
+  },
+  "Federal": {
+    "Branca": "9.87%",
+    "Preta": "5.47%",
+    "Parda": "44.66%",
+    "Amarela": "0.54%",
+    "Indígena": "0.54%",
+    "Não declarada": "38.92%"
+  }
+}
